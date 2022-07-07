@@ -112,7 +112,7 @@ export default function Waste() {
                 </div>
                 <div className="mb-3">
                     <label htmlFor="" className="form-label">
-                        Alamat
+                        Alamat Lokasi LIMAKU
                     </label>
                     <br />
                     <small className="text-danger">

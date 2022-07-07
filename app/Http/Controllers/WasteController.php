@@ -22,7 +22,7 @@ class WasteController extends Controller
 
     public function getTypes()
     {
-        return response()->json(['organic', 'inorganic'])->setStatusCode(200);
+        return response()->json(['masker kain', 'masker medis'])->setStatusCode(200);
     }
 
     /**
