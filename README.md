@@ -8,7 +8,7 @@ git clone https://github.com/rizki789/limaku.git
 ```
 2. Change directory
 ```shell
-cd waste-management-limaku
+cd limaku
 ```
 3. Install Composer Dependencies
 ```shell
